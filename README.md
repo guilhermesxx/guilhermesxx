@@ -39,45 +39,29 @@
       </samp>
   </summary>
   
-  <br>
+<div align="center" style="background-color:#222222; padding: 20px; border-radius: 10px; max-width: 900px; margin: auto; color:#ccc; font-family: Arial, sans-serif;">
 
-<div align="center" style="color:#444444;">
-  <b style="color:#ffd700;">Estatísticas do GitHub</b>
-  <br>
-  <img
-    height="165"
-    align="center"
-    alt="Estatísticas do GitHub"
-    src="https://github-readme-stats.vercel.app/api/?username=guilhermesxx&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
-  />
-  <br><br>
-  <b style="color:#ffd700;">Linguagens Principais</b>
-  <br>
-  <img
-    height="165"
-    align="center"
-    alt="Linguagens Principais"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesxx&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
-  />
-  <br><br>
-  <b style="color:#ffd700;">Resumo do Perfil</b>
-  <br>
-  <img
-    align="center"
-    alt="Resumo do Perfil"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesxx&theme=tokyonight"
-  />
-  <br><br>
-  <b style="color:#ffd700;">Sequência de Contribuições</b>
-  <br>
-  <img
-    height="154"
-    align="center"
-    alt="Sequência de Contribuições"
-    src="https://github-readme-streak-stats.herokuapp.com?user=guilhermesxx&theme=tokyonight&card_width=885"
-  />
+<h3 style="color:#FFD700;">📊 Estatísticas do GitHub</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<h3 style="color:#FFD700;">💻 Linguagens Principais</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<h3 style="color:#FFD700;">📋 Resumo do Perfil</h3>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seuusuario&theme=dark" alt="Resumo do Perfil" />
+</p>
+
+<h3 style="color:#FFD700;">🔥 Sequência de Contribuições</h3>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=seuusuario&theme=dark" alt="GitHub Streak" />
+</p>
+
 </div>
-
 <div align="center" style="display: inline_block; margin-top: 15px;"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
@@ -105,11 +89,11 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:guilherme@example.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/guilhermesxx/)
-  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](#)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](#)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/guilhermesxx/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23FFD700?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:seuemail@exemplo.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23FFD700?style=for-the-badge&logo=instagram&logoColor=FFD700)](https://instagram.com/seuusuario) 
+[![Discord](https://img.shields.io/badge/Discord-%23FFD700?style=for-the-badge&logo=discord&logoColor=FFD700)](https://discord.gg/seulink) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23FFD700?style=for-the-badge&logo=whatsapp&logoColor=FFD700)](https://wa.me/seunumero) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/seuusuario)
   
 </div>
 
