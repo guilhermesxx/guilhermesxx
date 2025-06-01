@@ -1,31 +1,31 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff4c4c"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffdd00"/>
 
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
+      Analista de Sistemas
     </b>
       <br>
-      Hi there! I'm Guilherme SXX
+      Olá! Eu sou Guilherme SXX
       <br>
   </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fguilhermesxx&s=21&c=ff4c4c&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fguilhermesxx&s=21&c=ffdd00&bg=00000000&no=2&ff=digi&tb=Visitas+no+Perfil%3A++&ta=" /></p> 
 </div>
       
 <br>
 <br>
       
 <div align="center">
-  <img src="https://i.pinimg.com/originals/9f/b1/25/9fb125f1fedc8cc62ab5b20699ebd87d.gif" width="200">
+  <img src="https://i.pinimg.com/originals/9f/b1/25/9fb125f1fedc8cc62ab5b20699ebd87d.gif" width="200" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/guilherme_♡-black" />
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff4c4c&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffdd00&width=900&size=21&center=true&lines=Sou+do+Brasil;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Também+sou+Designer;Seja+bem-vindo!" alt="SVG de digitação"/>
 </div>
 
 <br>
@@ -33,7 +33,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>Mais Informações</b>
       </samp>
   </summary>
   
@@ -43,20 +43,20 @@
   <img
     height=165
     align="center"
-    alt="GitHub Stats"
+    alt="Estatísticas do GitHub"
     src="https://github-readme-stats.vercel.app/api/?username=guilhermesxx&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
   <img
     height=165
     align="center"
-    alt="Top Language"
+    alt="Linguagens Principais"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesxx&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
   />
   <br>
   <br>
   <img
     align="center"
-    alt="Top Language"
+    alt="Resumo do Perfil"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesxx&theme=tokyonight"
   />
   <br>
@@ -64,7 +64,7 @@
   <img
     height=154
     align="center"
-    alt="Top Language"
+    alt="Sequência de Contribuições"
     src="https://github-readme-streak-stats.herokuapp.com?user=guilhermesxx&theme=tokyonight&card_width=885"
   />
   </div>
@@ -75,13 +75,12 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
 </div>
 
 <br>
@@ -91,17 +90,17 @@
 <div align="center">
   <samp>
     <b>
-      Contact me:
+      Contato:
     </b>
   </samp>
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:guilherme@example.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/guilhermesxx/)
-  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](#)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](#)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/guilhermesxx/)
+  [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffdd00)](mailto:guilherme@example.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffdd00)](https://www.instagram.com/guilhermesxx/)
+  [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=ffdd00)](#)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=ffdd00)](#)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffdd00)](https://www.linkedin.com/in/guilhermesxx/)
   
 </div>
 
@@ -109,10 +108,10 @@
 
 <p align="center">
       <samp>
-        ♡ <a href="https://rentry.co/guilhermesxx">rentry</a> ⊹
-        <a href="https://linktr.ee/guilhermesxx">linktr.ee</a> ⊹
-        <a href="https://byguilhermesxx.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+        ♡ <a href="https://rentry.co/guilhermesxx" style="color:#ffdd00;">rentry</a> ⊹
+        <a href="https://linktr.ee/guilhermesxx" style="color:#ffdd00;">linktr.ee</a> ⊹
+        <a href="https://byguilhermesxx.carrd.co/" style="color:#ffdd00;">carrd.co</a> ⊹
+        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069" style="color:#ffdd00;">notion</a> ♡
       </samp>
   </p>
 
@@ -125,4 +124,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4c4c&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffdd00&height=100&section=footer"/>
