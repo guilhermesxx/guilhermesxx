@@ -1,118 +1,110 @@
-<!-- Cabeçalho animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+<!-- Banner: Sugestão para criar/upload de banner em 1200x400px -->
+<!-- Exemplo de banner simples com fundo degradê vermelho escuro para vermelho claro -->
+<!-- Pode usar sites como Canva, Figma ou Photoshop para criar -->
 
-<div align="center">
-  <samp>
-    <b style="font-size: 1.5rem;">
-      Desenvolvedor de Sistemas
-    </b>
-    <br>
-    Olá! Eu sou <b>Guilherme Silva</b>, estudante e entusiasta de tecnologia.  
-    <br><br>
-    “Transformando ideias em código, um commit de cada vez.”  
-  </samp>
-</div>
+# Guilherme Silva 🚀🔥
 
-<br>
+---
 
-<div align="center">
-  <!-- Contador de visitas -->
-  <img src="https://profile-counter.glitch.me/guilhermesxx/count.svg" alt="Contador de visitas" />
-</div>
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc47194c-4389-40b2-b130-e3de76db4ea0/df5uscm-3f16c5f4-c591-4168-bcd8-037911bbf732.gif" alt="Animated Tech GIF" width="200" />
+</p>
 
-<br>
+---
 
-<div align="center">
-  <!-- GIF animado do japonês -->
-  <img 
-    src="https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2015/09/japaogif8.gif?fit=500%2C291&ssl=1" 
-    alt="Gif animado japonês" 
-    width="400" 
-    style="border-radius: 8px;" 
-  />
-</div>
+## 👨‍💻 Sobre Mim
 
-<br>
+Olá! Eu sou **Guilherme Silva** 💻🔥  
+Desenvolvedor Full Stack | Apaixonado por criar soluções que impactam pessoas.  
+_"Transformando ideias em código com paixão e dedicação!"_
 
-<div align="center" width="100%">
-  <!-- Texto animado de apresentação -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=Sou+do+Brasil;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Também+sou+apaixonado+por+tecnologia;Seja+bem-vindo!" 
-    alt="Typing SVG" 
-  />
-</div>
+---
 
-<br>
+## 🌐 Me encontre aqui
 
-<details align="center">  
-  <summary>
-    <samp><b>✨ Mais sobre mim ✨</b></samp>
-  </summary>
-  <br>
-  <div align="center">
-    <!-- GitHub Stats -->
-    <img
-      height="165"
-      align="center"
-      alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api/?username=guilhermesxx&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
-    />
-    <img
-      height="165"
-      align="center"
-      alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesxx&layout=compact&font=Iosevka&langs_count=10&theme=tokyonight"
-    />
-    <br><br>
-    <!-- GitHub Streak -->
-    <img
-      height="154"
-      align="center"
-      alt="GitHub Streak"
-      src="https://github-readme-streak-stats.herokuapp.com?user=guilhermesxx&theme=tokyonight&card_width=885"
-    />
-  </div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilhermesilva" target="_blank" rel="noopener">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/guilhermesilva" target="_blank" rel="noopener">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:guilherme@email.com" target="_blank" rel="noopener">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://guilhermesilva.dev" target="_blank" rel="noopener">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=aboutme&logoColor=white" />
+  </a>
+</p>
 
-  <br>
+---
 
-  <div align="center" style="display: inline-block; margin-top: 10px;">
-    <!-- Ícones de skills -->
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="HTML" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" alt="CSS" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python.svg" alt="Python" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" alt="Django" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" />
-  </div>
+## 📈 Estatísticas do GitHub
 
-  <br><br>
-  <div align="center">
-    <samp>
-      <b>📌 Curiosidades & Sobre mim:</b>
-      <br>
-      - 🎮 Gamer nas horas vagas (FPS e RPG)  
-      - ☕ Apaixonado por café expresso  
-      - 🌱 Sempre aprendendo novas linguagens e frameworks  
-      - 📚 Amante de livros de ficção científica  
-      - 🎨 Também faço ilustrações digitais e design gráfico  
-    </samp>
-  </div>
-  <br>
-</details>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermesilva&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesilva&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-<br>
+---
 
-<div align="center">
-  <b>🔗 Me encontre também:</b>
-  <br><br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesxx/)  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermesxx)  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermesxx)  
-  [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme@email.com)
-</div>
+## 🛠️ Tecnologias que domino
 
-<br>
+<p align="center">
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+</p>
 
-<!-- Rodapé animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
+---
+
+## 🚀 Estou trabalhando em
+
+<p align="center">
+  <b><a href="https://github.com/guilhermesilva/biblioteca-escolar" target="_blank" rel="noopener">Sistema Biblioteca Escolar 📚</a></b> - Backend Django e Frontend React  
+  <br/>
+  <b><a href="https://github.com/guilhermesilva/projeto-concessionaria" target="_blank" rel="noopener">Projeto Concessionária de Carros 🚗</a></b> - Web app moderno e responsivo
+</p>
+
+---
+
+## 🎉 Curiosidades sobre mim
+
+- 🎮 Gamer nas horas vagas, sempre buscando novos desafios.  
+- ☕ Amo café e programação — combinação perfeita para a criatividade.  
+- 📚 Apaixonado por aprender novas tecnologias e compartilhar conhecimento.  
+- 🚴‍♂️ Também curto bike e natureza para recarregar as energias.
+
+---
+
+## 📫 Me encontre por aqui também
+
+<p align="center">
+  <a href="https://twitter.com/guilhermesilva" target="_blank" rel="noopener">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/guilhermesilva" target="_blank" rel="noopener">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCguilhermesilva" target="_blank" rel="noopener">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔥 Badge de conhecimento em JavaScript
+
+<p align="center">
+  <img alt="JavaScript Skill Level" src="https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+<!-- Footer animado com gif pequeno e discreto -->
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc47194c-4389-40b2-b130-e3de76db4ea0/df5uscm-3f16c5f4-c591-4168-bcd8-037911bbf732.gif" alt="Cool Tech Animation" width="100" />
+</p>
