@@ -23,7 +23,7 @@
       
 <!-- 🐱 Linha do gif animado do gato (trocável) -->
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/129/12900.gif" width="200">
+  <img src="[https://giffiles.alphacoders.com/129/12900.gif](https://gifer.com/es/ZLBh)" width="200">
 </div>
 
 <!-- 🏷️ Badge com o nome de usuário -->
